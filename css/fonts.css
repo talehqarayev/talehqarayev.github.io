@@ -1,0 +1,246 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?hzgbfu');
+  src:  url('../fonts/icomoon.eot?hzgbfu#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?hzgbfu') format('truetype'),
+    url('../fonts/icomoon.woff?hzgbfu') format('woff'),
+    url('../fonts/icomoon.svg?hzgbfu#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-adobeacrobatreader:before {
+  content: "\e900";
+  color: #ee3f24;
+}
+.icon-airplayaudio:before {
+  content: "\e901";
+}
+.icon-airplayvideo:before {
+  content: "\e902";
+}
+.icon-amazon:before {
+  content: "\e903";
+  color: #f90;
+}
+.icon-applepodcasts:before {
+  content: "\e904";
+  color: #93c;
+}
+.icon-bootstrap:before {
+  content: "\e905";
+  color: #563d7c;
+}
+.icon-coveralls:before {
+  content: "\e906";
+  color: #3f5767;
+}
+.icon-csharp:before {
+  content: "\e907";
+  color: #239120;
+}
+.icon-css3:before {
+  content: "\e908";
+  color: #1572b6;
+}
+.icon-csswizardry:before {
+  content: "\e909";
+  color: #f43059;
+}
+.icon-dell:before {
+  content: "\e90a";
+  color: #007db8;
+}
+.icon-django:before {
+  content: "\e90b";
+}
+.icon-docusign:before {
+  content: "\e90c";
+  color: #fc2;
+}
+.icon-dot-net:before {
+  content: "\e90d";
+  color: #5c2d91;
+}
+.icon-epson:before {
+  content: "\e90e";
+  color: #039;
+}
+.icon-facebook:before {
+  content: "\e90f";
+  color: white;
+}
+.icon-gmail:before {
+  content: "\e910";
+  color: #d14836;
+}
+.icon-hp:before {
+  content: "\e911";
+  color: #0096d6;
+}
+.icon-html5:before {
+  content: "\e912";
+  color: #e34f26;
+}
+.icon-huawei:before {
+  content: "\e913";
+  color: #f00;
+}
+.icon-ibm:before {
+  content: "\e914";
+  color: #054ada;
+}
+.icon-instagram:before {
+  content: "\e915";
+  color: white;
+}
+.icon-intel:before {
+  content: "\e916";
+  color: #0071c5;
+}
+.icon-internetexplorer:before {
+  content: "\e917";
+  color: #0076d6;
+}
+.icon-invision:before {
+  content: "\e918";
+  color: #f36;
+}
+.icon-ios:before {
+  content: "\e919";
+}
+.icon-itunes:before {
+  content: "\e91a";
+  color: #fb5bc5;
+}
+.icon-java:before {
+  content: "\e91b";
+  color: #007396;
+}
+.icon-jquery:before {
+  content: "\e91c";
+  color: #0769ad;
+}
+.icon-laravelhorizon:before {
+  content: "\e91d";
+  color: #405263;
+}
+.icon-linkedin:before {
+  content: "\e91e";
+  color: white;
+}
+.icon-mail-dot-ru:before {
+  content: "\e91f";
+  color: #168de2;
+}
+.icon-manjaro:before {
+  content: "\e920";
+  color: #35bf5c;
+}
+.icon-mercedes:before {
+  content: "\e921";
+}
+.icon-messenger:before {
+  content: "\e922";
+  color: #00b2ff;
+}
+.icon-microsoftaccess:before {
+  content: "\e923";
+  color: #ba141a;
+}
+.icon-microsoftedge:before {
+  content: "\e924";
+  color: #0078d7;
+}
+.icon-microsoftexcel:before {
+  content: "\e925";
+  color: #217346;
+}
+.icon-microsoftoffice:before {
+  content: "\e926";
+  color: #e74025;
+}
+.icon-microsoftonedrive:before {
+  content: "\e927";
+  color: #094ab2;
+}
+.icon-microsoftonenote:before {
+  content: "\e928";
+  color: #80397b;
+}
+.icon-microsoftoutlook:before {
+  content: "\e929";
+  color: #0072c6;
+}
+.icon-microsoftpowerpoint:before {
+  content: "\e92a";
+  color: #d24726;
+}
+.icon-microsoftteams:before {
+  content: "\e92b";
+  color: #6264a7;
+}
+.icon-microsoftword:before {
+  content: "\e92c";
+  color: #2b579a;
+}
+.icon-moo:before {
+  content: "\e92d";
+  color: #00945e;
+}
+.icon-nokia:before {
+  content: "\e92e";
+  color: #124191;
+}
+.icon-npm:before {
+  content: "\e92f";
+  color: #cb3837;
+}
+.icon-odnoklassniki:before {
+  content: "\e930";
+  color: #f4731c;
+}
+.icon-paypal:before {
+  content: "\e931";
+  color: #00457c;
+}
+.icon-php:before {
+  content: "\e932";
+  color: #777bb4;
+}
+.icon-playstation:before {
+  content: "\e933";
+  color: #003791;
+}
+.icon-playstation3:before {
+  content: "\e934";
+  color: #003791;
+}
+.icon-playstation4:before {
+  content: "\e935";
+  color: #003791;
+}
+.icon-python:before {
+  content: "\e936";
+  color: #3776ab;
+}
+.icon-twitter:before {
+  content: "\e937";
+  color: white;
+}
